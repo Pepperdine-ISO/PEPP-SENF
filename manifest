@@ -1,0 +1,2 @@
+Main-Class: senf/Senf
+Class-Path: lib/tika.jar

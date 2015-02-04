@@ -1,0 +1,1047 @@
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:02:36 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 460 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:02:59 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 1180 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:03:00 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 1901 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:03:09 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 2622 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:03:10 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 3343 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:03:15 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 4064 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:03:27 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 4882 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:03:35 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 5700 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:03:40 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 6518 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:03:42 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 7239 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:03:53 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 7960 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:04:03 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 8681 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:04:39 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 9499 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:05:45 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 10220 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:05:51 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 10942 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:05:53 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 11664 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:06:26 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 12386 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:07:36 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 13205 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:07:40 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 13927 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:07:43 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 14746 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:07:50 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 15565 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:08:12 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 16287 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:09:00 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 17009 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:09:21 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 17731 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:10:17 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 18551 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:10:49 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 19274 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:10:55 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 19997 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:10:56 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 20720 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:10:57 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 21443 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:10:58 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 22166 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:10:58 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 22889 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:10:59 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 23612 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:11:00 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 24335 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:11:06 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 15 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 25058 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:12:42 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 25780 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:09 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 26502 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:18 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 27321 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:22 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 28043 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:31 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 28862 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:35 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 29681 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:40 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 30500 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:48 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 31319 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:50 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 32041 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:54 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 32763 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:13:58 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 33485 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:04 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 34304 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:09 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 35026 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:14 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 35845 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:22 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 36664 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:26 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 37386 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:37 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 38205 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:46 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 39024 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:50 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 39843 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:54 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 40565 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:14:56 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 41287 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:15:01 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 42009 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:15:04 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 42731 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:15:23 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 43550 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:15:28 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 44272 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:15:35 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 45091 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:15:40 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 45813 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 11 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:15:47 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 46632 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:15:59 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 47354 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:16:00 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 48076 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:16:06 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 48798 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:16:07 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 49520 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:16:08 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 50242 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:16:09 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 50964 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:16:09 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 51686 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:16:12 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 52408 bytes	Found Match
+
+Done.  2 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:16:29 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 53130 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 48 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:18:31 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 53949 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 147 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
+Senf Version 1.haku.338 (Base Version: 1.sasuke.111) Output Log
+Wed Feb 04 09:19:01 PST 2015
+User: stephansalas on Shuttles-MacBook-Pro.local
+
+Checking objects up to 104857600 bytes.
+Checking only objects modified since Thu Jan 01 00:00:00 PST 2004.
+Checking for 1 matches per object.
+Starting search at /Users/stephansalas/Documents/ISO-senf-dev
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502048.txt	size: 4959 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/senf_201502049.txt	size: 54769 bytes	Found Match
+Scanning Stream: file:/Users/stephansalas/Documents/ISO-senf-dev/test	size: 147 bytes	Found Match
+
+Done.  3 matches found.
+There was a total of 0 unreadable files.
+---------------------------------------------------------------------------------
