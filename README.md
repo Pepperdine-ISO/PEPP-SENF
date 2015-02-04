@@ -1,14 +1,7 @@
-### senf: the mustardy sensitive number finder
+### Pepperdine ISO SENF: The Optomized Mustardy Sensitive Number Finder
 
-senf is a portable tool for finding sensitive numbers. Use this tool to identify files on your system that may have Social Security Numbers (SSNs) or Credit Card Numbers (CCNs). The latest version can always be found at the senf site.
+senf is a portable tool for finding sensitive numbers. Use this tool to identify files on your system that may have Social Security Numbers (SSNs) or Credit Card Numbers (CCNs). For Pepperdine University purposes, this version will not find SSNs starting with 010-019, 040-049, 0r 100. It will also not find DOBs.
 
-##### Download pre-built release binary
-
-The latest release build can be downloaded at https://github.com/utiso/senf/releases/latest
-
-##### Other senf-related products for superb purchase agreeings
-* senf suite, for enterprise experts: http://www.otc.utexas.edu/ATdisplay.jsp?id=1065&term=senf
-* senf preprocessor, for ids zoomzoom: http://www.otc.utexas.edu/ATdisplay.jsp?id=394&term=senf
 
 ##### License
 senf is licensed under a Creative Commons License; see http://creativecommons.org/licenses/by-nc-sa/3.0/us/
@@ -190,6 +183,9 @@ Credit cards numbers may be one long string of numbers (nnnnnnnnnnnnnnnn), or ma
 Credit cards must pass a Luhn mod 10 check to be considered valid.
 
 #### Social Security Numbers
+
+For Pepperdine University purposes, this version will not find SSNs starting with 010-019, 040-049, 
+0r 100. It will also not find DOBs.
 
 ##### Formats and separators
 
