@@ -46,7 +46,7 @@ public class SenfOptions {
 	// Options specified at runtime (pre-scan)
 	public static final String DEFAULT_LOG_PREFIX = "senf_";
 	public static final String DEFAULT_LOG_EXTENSION = ".txt";
-	public static final int DEFAULT_MIN_MATCHES = 15;
+	public static final int DEFAULT_MIN_MATCHES = 1;
 	public static final int DEFAULT_MAX_FILE_LENGTH = -1;
 	public static final String SCAN_ALL_ROOTS = "System";
 	public static final String CCN_SEED = "CCNSeed.class";
@@ -62,7 +62,7 @@ public class SenfOptions {
 	public String dateReq;
 	public boolean verbose = false;
 	public boolean showWork = false;
-	public boolean showError = true;
+	public boolean showError = false;
 	public boolean logToFile = true;
 	public boolean showGUI = true;
 	public boolean appendConfs = false;
