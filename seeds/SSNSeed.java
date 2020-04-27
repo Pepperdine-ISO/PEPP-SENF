@@ -40,12 +40,17 @@ public class SSNSeed implements Seed {
     int matches;
     long offset;
     boolean eof;
+    int lastp; // position of the recent pepperdine control characters
+    private static final Character peppchar = new Character( Character.toUpperCase( 'P' ) ); // UPPERCASE pepperdine control character
     private static final Pattern SSN_PATTERN = Pattern.compile( "[0-9]{3}([-\\. \\|])[0-9]{2}\\1[0-9]{4}" );
 
     private static final int LENIENT_MASK_SSN_SEPARATORS = 0xede;
     private static final int LENIENT_MASK_SSN_NO_SEPARATORS = 0x3fe;
     private static final int LENIENT_MASK_SSN_SEPARATORS_TRUNC = 0x1fff;
     private static final int LENIENT_MASK_SSN_NO_SEPARATORS_TRUNC = 0x7ff;
+    // additional masks for detecting pepperdine control character
+    private static final int CONTROL_MASK_SSN_SEPARATORS = 0x1000;
+    private static final int CONTROL_MASK_SSN_NO_SEPARATORS = 0x400;
 
     public SSNSeed(){}
      
@@ -88,6 +93,7 @@ public class SSNSeed implements Seed {
     	matches = 0;
         eof = ( c == -1 );
         sofar <<= 1;
+        lastp <<= 1; // shift last pepperdine control character
 	++offset;
         if( eof ) {
             ring.push( EOFCHAR );
@@ -96,7 +102,11 @@ public class SSNSeed implements Seed {
             if( Character.isDigit( (char)c ) ) {
                 sofar |= 1;
 	    	return 0;
-	    }
+	    } else { // check for the pepperdine control character
+                if( peppchar.equals( Character.toUpperCase( (char)c ) ) ){
+                    lastp |= 1; // store the new control character for next check
+                }
+            }
         }
          // remove stuff we don't care about
         ssns = sofar & LENIENT_MASK_SSN_SEPARATORS_TRUNC;
