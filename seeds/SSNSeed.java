@@ -40,6 +40,7 @@ public class SSNSeed implements Seed {
     int matches;
     long offset;
     boolean eof;
+    boolean pcontrol; // control flag for pepperdine control characters
     int lastp; // position of the recent pepperdine control characters
     private static final Character peppchar = new Character( Character.toUpperCase( 'P' ) ); // UPPERCASE pepperdine control character
     private static final Pattern SSN_PATTERN = Pattern.compile( "[0-9]{3}([-\\. \\|])[0-9]{2}\\1[0-9]{4}" );
@@ -63,6 +64,8 @@ public class SSNSeed implements Seed {
         if (area >= 10 && area < 20)
             return false;
         if (area >= 40 && area < 50)
+            return false;
+        if (area == 600 && pcontrol)
             return false;
         if( area < 734 )
             return true;
@@ -94,6 +97,7 @@ public class SSNSeed implements Seed {
         eof = ( c == -1 );
         sofar <<= 1;
         lastp <<= 1; // shift last pepperdine control character
+        pcontrol = false; // reset the control flag
 	++offset;
         if( eof ) {
             ring.push( EOFCHAR );
@@ -116,7 +120,8 @@ public class SSNSeed implements Seed {
 	if( ssns == LENIENT_MASK_SSN_SEPARATORS ) {
 		String possn = ring.read( 12 );
             int area = Integer.parseInt( possn.substring( 0, 3 ) );
-            if( ssnAreaValid( area ) && ( lastp & CONTROL_MASK_SSN_SEPARATORS ) == 0 )
+            pcontrol = (( lastp & CONTROL_MASK_SSN_SEPARATORS ) != 0);
+            if( ssnAreaValid( area ) )
             {
                 if( SSN_PATTERN.matcher( possn ).find() ) {
                     if( !( possn.substring( 4, 6 ).equals( "00" ) || possn.substring( 7, 11 ).equals( "0000" ) ) )
@@ -132,7 +137,8 @@ public class SSNSeed implements Seed {
         if( ssnns == LENIENT_MASK_SSN_NO_SEPARATORS ) {
             String possn = ring.read( 10 );
             int area = Integer.parseInt( possn.substring( 0, 3 ) );
-            if( ssnAreaValid( area ) && ( lastp & CONTROL_MASK_SSN_NO_SEPARATORS ) == 0 )
+            pcontrol = (( lastp & CONTROL_MASK_SSN_NO_SEPARATORS ) != 0);
+            if( ssnAreaValid( area ) )
             {
                 if( !(possn.substring( 3, 5 ).equals( "00" ) || possn.substring( 5, 9 ).equals( "0000" ) ) )
                 {
