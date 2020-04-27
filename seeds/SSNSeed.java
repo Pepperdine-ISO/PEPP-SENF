@@ -116,7 +116,7 @@ public class SSNSeed implements Seed {
 	if( ssns == LENIENT_MASK_SSN_SEPARATORS ) {
 		String possn = ring.read( 12 );
             int area = Integer.parseInt( possn.substring( 0, 3 ) );
-            if( ssnAreaValid( area ) )
+            if( ssnAreaValid( area ) && ( lastp & CONTROL_MASK_SSN_SEPARATORS ) == 0 )
             {
                 if( SSN_PATTERN.matcher( possn ).find() ) {
                     if( !( possn.substring( 4, 6 ).equals( "00" ) || possn.substring( 7, 11 ).equals( "0000" ) ) )
@@ -132,7 +132,7 @@ public class SSNSeed implements Seed {
         if( ssnns == LENIENT_MASK_SSN_NO_SEPARATORS ) {
             String possn = ring.read( 10 );
             int area = Integer.parseInt( possn.substring( 0, 3 ) );
-            if( ssnAreaValid( area ) )
+            if( ssnAreaValid( area ) && ( lastp & CONTROL_MASK_SSN_NO_SEPARATORS ) == 0 )
             {
                 if( !(possn.substring( 3, 5 ).equals( "00" ) || possn.substring( 5, 9 ).equals( "0000" ) ) )
                 {
